@@ -7,3 +7,6 @@ a few thing needs to be downloaded before running the tests
 3. npm install jasmine-spec-reporter --save-dev
 4. npm install protractor-beautiful-reporter --save-dev
 
+to trigger the test :
+1.be on the configuration folder
+2. run as protractor conf.js
